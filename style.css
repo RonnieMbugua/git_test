@@ -4,3 +4,22 @@ h1 {
 p {
     color: darkblue;
 }
+
+/* This is a comment inside my CSS code */
+
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+
+
+/* Ordered List Styling */
+
+.ordered-list {
+    border: 2px solid #c7c2c2;
+    border-radius: 7px;
+    padding: 22px;
+    margin: 20px;
+    width: fit-content;
+}
